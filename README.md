@@ -1,6 +1,8 @@
 # movieAPI 08/12/2023
 Created A movie API similar to Rotten Tomatoes reviews but in API style
 Created this project to improve my skills in created real world API's
+Within the array (JSON FILE) there are 40 objects.
+40 movie reviews total for this API file.
 
 STEPS:
 -created a directory project folder called movie_api.
